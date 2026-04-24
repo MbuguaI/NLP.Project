@@ -60,7 +60,7 @@ def get_confidence_scores(model, X):
 # -------------------------------------------------------------------
 # Custom CSS for the UI
 # -------------------------------------------------------------------
-st.set_page_config(page_title="Luo Language Identifier", layout="centered")
+st.set_page_config(page_title="Language Identifier", layout="centered")
 
 st.markdown("""
 <style>

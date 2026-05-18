@@ -180,5 +180,3 @@ if st.button("Identify Language", type="primary"):
             st.caption(f"Processed text length: {len(cleaned.split())} words")
             st.markdown('</div>', unsafe_allow_html=True)
 
-st.markdown("---")
-st.markdown('<div class="caption">CSC423 NLP Project – Language Identification for Swahili, English, Sheng, Luo</div>', unsafe_allow_html=True)
